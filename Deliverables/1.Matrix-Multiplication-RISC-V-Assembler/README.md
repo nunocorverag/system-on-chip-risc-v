@@ -83,4 +83,4 @@ Since both input matrices are initialized with all 1's, the resulting matrix C w
 
 Below is an image showing the result as printed by the program:
 
-![Program output](Result.png)
+![Program output](result.png)
